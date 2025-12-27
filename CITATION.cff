@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Readstocount: An RNA-seq Analysis Pipeline"
+authors:
+  - family-names: Sharma
+    given-names: Jaidev
+year: 2025
+repository-code: "https://github.com/jaidevsharma/Readstocount-RNA-seq-pipeline"
+license: GPL-3.0
